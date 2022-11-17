@@ -1,0 +1,7 @@
+D:\RiderProjects\testcalc\testcalc\bin\Debug\testcalc.exe
+D:\RiderProjects\testcalc\testcalc\bin\Debug\testcalc.pdb
+D:\RiderProjects\testcalc\testcalc\obj\Debug\testcalc.csproj.AssemblyReference.cache
+D:\RiderProjects\testcalc\testcalc\obj\Debug\testcalc.csproj.SuggestedBindingRedirects.cache
+D:\RiderProjects\testcalc\testcalc\obj\Debug\testcalc.csproj.CoreCompileInputs.cache
+D:\RiderProjects\testcalc\testcalc\obj\Debug\testcalc.exe
+D:\RiderProjects\testcalc\testcalc\obj\Debug\testcalc.pdb
